@@ -50,7 +50,7 @@ if (age >= 18) {
 You are a minor.
 ```
 
-## Ternary Operator
+### Ternary Operator
 The ternary operator is a shorthand for the if-else statement. It uses the `?` and `:` symbols.
 
 ```java
@@ -58,13 +58,13 @@ variable = (condition) ? valueIfTrue : valueIfFalse;
 ```
 **Example**
 ```java
-int age = 20;
+int age = 17;
 String result = (age >= 18) ? "You are an adult." : "You are a minor.";
 System.out.println(result);
 ```
 **Output**
 ```
-You are an adult.
+You are a minor.
 ```
 The ternary operator is a concise way to perform conditional assignments or evaluations.
 
