@@ -9,8 +9,8 @@ Implement a program that reads the temperature, decides whether it's **hot**, **
 ## Implementation
 
 Implement and solve the project in two different ways (**Two solutions**).
-- Using the `if-else` statement.
-- Using `switch` statement.
+- Using the `if-else` statements.
+- Using the `switch` statement.
 
 The program should read the `temp` variable value, which is `70`.
 - If `temp` value was above or equal `37`, the program should print **Hot**.
