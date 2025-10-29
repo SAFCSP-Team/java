@@ -1,4 +1,4 @@
-# Conditional Project
+# Conditional Statements Project
 
 ## Objectives
 This project aims to apply what you have learned about conditional statements.
